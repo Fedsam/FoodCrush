@@ -1,5 +1,7 @@
 # foodcrush
 
+![screenshot](screenshot.png)
+
 ## Project setup
 ```
 npm install
